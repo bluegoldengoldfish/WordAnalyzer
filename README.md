@@ -34,6 +34,17 @@ Built with Spring boot framework
 
 Levenshtein distance is implemented from [Java String Similarity](https://github.com/tdebatty/java-string-similarity)
 
+
+### UI Implementation
+
+---
+
+For the UI implementation I suggest a collapsable panel on the right hand side containing a text box and button for the 
+input and a panel with the results. There is an included a mockup html file simulating Notebook's interface with the suggested 
+UI approach.
+
+Location /src/main/resources/static/mockup.html
+
 ### Future improvement
 
 ---
