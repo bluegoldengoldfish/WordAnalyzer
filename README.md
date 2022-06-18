@@ -1,5 +1,5 @@
 # Word Frequency Analysis
-**Version 1.0** | **Author**: Edwin Barahona | **Development time**: 5 hours
+**Version 1.0** | **Author**: Edwin Barahona 
 
 
 ### Scope
